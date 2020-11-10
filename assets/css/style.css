@@ -91,8 +91,8 @@ h3 {
   text-align: center;
   background: #666;
   border-top: 8px solid #4aaaa5;
-  width: 1335px;
-  margin-left: -115px;
+  width: 1410px;
+  /*margin-left: -110px;*/
 
 }
 
@@ -130,7 +130,18 @@ h3,
   background: #fff;
   border: 1px solid #ddd;
 
+ 
+
 }
+/*.main-section one{
+  width: 780;
+}
+.main-section two{
+  width: 780;
+}
+.main-section three{
+  width: 780;
+}*/
 
 .main-section p {
   margin: 0px 15px 15px 10px;
